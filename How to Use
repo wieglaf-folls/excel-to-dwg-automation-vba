@@ -1,0 +1,4 @@
+1. Open the Excel file and enable macros.
+2. Import the VBA module from /src.
+3. Click the “Generate DWG” button.
+4. The tool outputs an Xref-ready DWG block.
