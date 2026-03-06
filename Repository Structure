@@ -1,5 +1,4 @@
-/src
-  └─ excel_to_dwg.bas
-/docs
-  └─ sample_output.gif
-README.md
+## Repository Structure
+├── src/        # Python scripts
+├── families/   # Custom Revit families (.rfa)
+└── README.md
